@@ -2,9 +2,16 @@
 
 ## Development
 
-### Workflow
+### Development Dependencies
 
-**Eslint** configuration is set up ti handle React and Typescript code formating. Code formating follows the [Javascript styleguide](https://github.com/airbnb/javascript) as well as the [React styleguide](https://github.com/airbnb/javascript/tree/master/react) from airbnb.
-**Prettier** is also set up to work along with eslint.
+#### Code Formating
 
-**Testing Workflow** is handled with **vitest**. We also use **testing-library** to have some frontend testing commodities with React.
+- eslint : [documentation](https://eslint.org/docs/latest/)
+- prettier : [documentation](https://prettier.io/docs/en/)
+- airbnb JS styleguide : [specs](https://github.com/airbnb/javascript)
+- airbnb React styleguide : [specs](https://github.com/airbnb/javascript/tree/master/react)
+
+#### Testing
+
+- vitest : [documentation](https://vitest.dev/guide/)
+- testing-library : [documentation](https://testing-library.com/docs/)
